@@ -1,6 +1,8 @@
 
 
 ## Data characterization with SDgen
+[https://github.com/iostackproject/SDGen]
+
 
 
 * dependiencies:
@@ -79,4 +81,12 @@ x-flv,0.0809578736209
 
 
 ```
+
+
+
+### result:
+
+
+sdgen_characterization receipt for each characterization group
+
 
