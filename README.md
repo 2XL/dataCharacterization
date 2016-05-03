@@ -6,7 +6,8 @@
 
 
 * dependiencies:
-    1. sdgen.jar
+    1. https://github.com/iostackproject/SDGen.git
+        * run the helloworld test defining out local characterization files *.tar
 
 
 
@@ -93,7 +94,7 @@ sdgen_characterization receipt for each characterization group
 ### propuesta:
 
 * envez de cojer ficheros random.
-* utilizar los recursos que ofrece [sun.aei.polsl.pl] silesia
+* utilizar los recursos que ofrece [sun.aei.polsl.pl] silesia ... referenciados en el README.md del sdgen_characterizations
 
 
 
