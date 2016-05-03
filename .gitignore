@@ -5,5 +5,7 @@ lib
 scripts
 LICENSE
 application.properties
+sdgen_characterizations/silesia
+sdgen_characterizations/silo
 
 

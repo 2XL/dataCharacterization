@@ -90,3 +90,19 @@ x-flv,0.0809578736209
 sdgen_characterization receipt for each characterization group
 
 
+### propuesta:
+
+* envez de cojer ficheros random.
+* utilizar los recursos que ofrece [sun.aei.polsl.pl] silesia
+
+
+
+
+seleccionar ficheros por mimetype en silesia.
+
+
+
+
+
+
+
