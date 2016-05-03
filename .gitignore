@@ -5,7 +5,30 @@ lib
 scripts
 LICENSE
 application.properties
-sdgen_characterizations/silesia
+sdgen_characterizations/silesia/*/*.tar
+sdgen_characterizations/silesia/*/*.wav
+sdgen_characterizations/silesia/*/*.y4m
+sdgen_characterizations/silesia/*/*.dat
+sdgen_characterizations/silesia/*/*_application
+sdgen_characterizations/silesia/*/*_audio
+sdgen_characterizations/silesia/*/*_text
+sdgen_characterizations/silesia/*/*_video
+sdgen_characterizations/silesia/*/*_chemical
+sdgen_characterizations/silesia/*/*_message
+sdgen_characterizations/silesia/*/*_image
+
+
+sdgen_characterizations/silesia/application/reymont
+sdgen_characterizations/silesia/application/xml
+sdgen_characterizations/silesia/chemical/nci
+sdgen_characterizations/silesia/chemical/x-ray
+sdgen_characterizations/silesia/image/mr
+sdgen_characterizations/silesia/message/webster
+sdgen_characterizations/silesia/text/dickens
+
+
+
+
 sdgen_characterizations/silo
 
 
